@@ -1,0 +1,23 @@
+{
+  "pageTitle": "About {{companyName}}",
+  "pageDescription": "Learn about our story, mission, values, and the team that drives us forward.",
+  "missionSection": {
+    "imageAlt": "Team mission visual",
+    "subtitle": "Team Mission",
+    "titleLine1": "Driving Innovation with Technology",
+    "titleLine2": "Empowering Client Success",
+    "description": "Our mission is to help clients tackle challenges and seize opportunities through cutting-edge technology solutions and exceptional customer service, achieving sustained success in the digital era. We believe in the power of collaboration and innovation."
+  },
+  "historySection": {
+    "subtitle": "Company History",
+    "title": "Our Journey",
+    "paragraph1": "{{companyName}} was founded in [Founding Year], initially focusing on [Early Business Area]. With a passion for technology and a deep understanding of client needs, we gradually expanded our business scope, making significant progress in [Key Milestone 1, e.g., entering new markets or launching major products].",
+    "paragraph2": "Over the years, we have consistently adhered to the principles of [Core Company Values, e.g., Innovation, Integrity, Collaboration], continuously building technical strength and optimizing service processes. After [Key Milestone 2, e.g., obtaining important certifications or completing major projects], the company entered a new stage of development. Today, we have become a trusted partner in the [Current Market Position or Industry Description] field."
+  },
+  "teamSection": {
+    "subtitle": "Team Introduction",
+    "title": "Meet Our Core Team111111111",
+    "description": "Our team brings together experienced professionals dedicated to creating value for our clients.",
+    "memberAlt": "{{name}}'s headshot"
+  }
+} 

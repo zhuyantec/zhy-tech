@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "backgroundImageAlt": "办公室里的人们正在分析财务图表",
+    "welcome": "欢迎来到 {{companyName}}",
+    "headline1": "塑造未来",
+    "headline2": "创新视野",
+    "button": "了解更多"
+  },
+  "partnersSection": {
+    "title": "信赖伙伴",
+    "logoAlt": {
+      "google": "谷歌标志",
+      "microsoft": "微软标志",
+      "zoom": "Zoom 标志"
+    }
+  },
+  "projectsSection": {
+    "subtitle": "项目案例",
+    "title": "我们的成功项目",
+    "description": "这是一段描述性文字，用于介绍项目案例部分。您可以替换为实际内容。",
+    "card1": {
+      "alt": "项目一背景",
+      "title": "项目一标题",
+      "description": "项目一的简短描述，突出其特点和成果。"
+    },
+    "card2": {
+      "backgroundAlt": "项目二背景",
+      "mockupAlt": "项目二图片",
+      "title": "项目二标题",
+      "description": "项目二的简短描述。"
+    },
+    "card3": {
+      "backgroundAlt": "项目三背景",
+      "mockupAlt": "项目三屏幕模型",
+      "title": "项目三标题",
+      "description": "项目三的简短描述。"
+    },
+    "mainButton": "浏览所有项目"
+  },
+  "testimonialsSection": {
+    "subtitle": "客户评价",
+    "title": "听听客户怎么说？",
+    "items": {
+      "1": {
+        "quote": "这是一段客户评价的示例文字。替换为真实的客户反馈，突出产品或服务的优势。",
+        "name": "张三",
+        "location": "中国"
+      },
+      "2": {
+        "quote": "非常棒的服务体验，技术专业，沟通顺畅，强烈推荐！",
+        "name": "李四",
+        "location": "中国"
+      },
+      "3": {
+        "quote": "他们的解决方案完美解决了我们的痛点，效率提升显著。",
+        "name": "王五",
+        "location": "中国"
+      }
+    }
+  },
+  "aboutVariantSection": {
+    "imageAlt": "团队合作或办公室场景",
+    "subtitle": "关于我们",
+    "title1": "您的成功",
+    "title2": "我们的使命",
+    "description": "这是一段补充的关于我们信息。您可以进一步阐述公司的核心竞争力或服务理念。"
+  },
+  "aboutSection": {
+    "visuals": {
+      "shape1Alt": "抽象形状 1",
+      "shape2Alt": "抽象形状 2",
+      "customer1Alt": "满意的客户 1",
+      "customer2Alt": "满意的客户 2"
+    },
+    "statsCard": {
+      "label": "满意客户"
+    },
+    "subtitle": "关于我们",
+    "title1": "众多客户满意",
+    "title2": "服务至上",
+    "description": "这是一段关于公司的介绍性文字。您可以详细说明公司的历史、使命和价值观。"
+  }
+} 

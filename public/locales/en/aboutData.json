@@ -1,0 +1,32 @@
+{
+  "teamMembers": [
+    {
+      "id": 1,
+      "name": "Li Ming",
+      "title": "Chief Executive Officer (CEO)",
+      "imageUrl": "/images/person-1.webp",
+      "bio": "With over 15 years of industry experience, dedicated to leading the company to the forefront of technology."
+    },
+    {
+      "id": 2,
+      "name": "Wang Fang",
+      "title": "Chief Technology Officer (CTO)",
+      "imageUrl": "/images/about-variant-image.webp",
+      "bio": "Technology expert, responsible for the company's technology strategy planning and R&D team management."
+    },
+    {
+      "id": 3,
+      "name": "Zhao Qiang",
+      "title": "Chief Operating Officer (COO)",
+      "imageUrl": "/images/person-1.webp",
+      "bio": "Responsible for the company's daily operations management, ensuring efficient collaboration and business growth."
+    },
+    {
+      "id": 4,
+      "name": "Liu Min",
+      "title": "Marketing Director",
+      "imageUrl": "/images/about-variant-image.webp",
+      "bio": "Responsible for market strategy formulation and brand promotion, expanding the company's influence."
+    }
+  ]
+} 

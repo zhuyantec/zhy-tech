@@ -1,0 +1,56 @@
+{
+  "pageTitle": "我们的项目案例",
+  "pageDescription": "探索我们为各行各业客户打造的创新解决方案和成功实践。",
+  "tags": {
+    "web开发": "Web开发",
+    "数据分析": "数据分析",
+    "移动应用": "移动应用",
+    "uiux设计": "UI/UX设计",
+    "云计算": "云计算",
+    "devops": "DevOps",
+    "人工智能": "人工智能",
+    "机器学习": "机器学习"
+  },
+  "items": [
+    {
+      "id": 1,
+      "imageUrl": "/images/project-bg-1.webp",
+      "title": "项目一标题",
+      "description": "项目一的详细描述，说明项目背景、解决方案、技术栈和最终成果。突出其创新性和价值。",
+      "altText": "项目一背景",
+      "buttonText": "查看详情",
+      "tags": ["Web开发", "数据分析"]
+    },
+    {
+      "id": 2,
+      "imageUrl": "/images/project-bg-1.webp",
+      "title": "项目二标题",
+      "description": "项目二的详细描述，说明项目背景、解决方案、技术栈和最终成果。突出其创新性和价值。",
+      "altText": "项目二图片",
+      "buttonText": "查看详情",
+      "tags": ["移动应用", "UI/UX设计"]
+    },
+    {
+      "id": 3,
+      "imageUrl": "/images/project-bg-1.webp",
+      "title": "项目三标题",
+      "description": "项目三的详细描述，说明项目背景、解决方案、技术栈和最终成果。突出其创新性和价值。",
+      "altText": "项目三屏幕模型",
+      "buttonText": "查看详情",
+      "tags": ["云计算", "DevOps"]
+    },
+    {
+      "id": 4,
+      "imageUrl": "/images/hero-background.webp",
+      "title": "项目四标题",
+      "description": "项目四的详细描述，说明项目背景、解决方案、技术栈和最终成果。突出其创新性和价值。",
+      "altText": "项目四背景",
+      "buttonText": "查看详情",
+      "tags": ["人工智能", "机器学习"]
+    }
+  ],
+  "notFound": {
+    "title": "项目未找到",
+    "message": "抱歉，无法加载该项目详情。"
+  }
+} 

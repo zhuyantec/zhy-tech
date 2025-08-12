@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1:76",
+    "name": "Google",
+    "logoSrc": "/logos/google.svg",
+    "alt": "Google Logo",
+    "description": "A leading global technology company providing search engine, cloud computing, advertising, and other services."
+  },
+  {
+    "id": "1:98",
+    "name": "Microsoft",
+    "logoSrc": "/logos/microsoft.svg",
+    "alt": "Microsoft Logo",
+    "description": "A leading global software company providing operating systems, office software, cloud computing, and other services."
+  },
+  {
+    "id": "1:106",
+    "name": "Zoom",
+    "logoSrc": "/logos/zoom.svg",
+    "alt": "Zoom Logo",
+    "description": "A leading video conferencing solutions provider connecting users worldwide."
+  },
+  {
+    "id": "placeholder-4",
+    "name": "Example Partner A",
+    "logoSrc": "/logos/google.svg", 
+    "alt": "Example Partner A Logo",
+    "description": "This is a brief introduction for Example Partner A, explaining the area of cooperation or relationship."
+  },
+   {
+    "id": "placeholder-5",
+    "name": "Example Partner B",
+    "logoSrc": "/logos/microsoft.svg",
+    "alt": "Example Partner B Logo",
+    "description": "This is a brief introduction for Example Partner B, explaining the area of cooperation or relationship."
+  }
+] 

@@ -1,0 +1,32 @@
+{
+  "teamMembers": [
+    {
+      "id": 1,
+      "name": "李明",
+      "title": "首席执行官 (CEO)",
+      "imageUrl": "/images/person-1.webp",
+      "bio": "拥有超过15年的行业经验，致力于带领公司走向技术前沿。"
+    },
+    {
+      "id": 2,
+      "name": "王芳",
+      "title": "首席技术官 (CTO)",
+      "imageUrl": "/images/about-variant-image.webp",
+      "bio": "技术专家，负责公司技术战略规划和研发团队管理。"
+    },
+    {
+      "id": 3,
+      "name": "赵强",
+      "title": "首席运营官 (COO)",
+      "imageUrl": "/images/person-1.webp",
+      "bio": "负责公司日常运营管理，确保高效协同和业务增长。"
+    },
+    {
+      "id": 4,
+      "name": "刘敏",
+      "title": "市场总监",
+      "imageUrl": "/images/about-variant-image.webp",
+      "bio": "负责市场策略制定和品牌推广，拓展公司影响力。"
+    }
+  ]
+} 

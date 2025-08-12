@@ -1,0 +1,59 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+:root {
+  /* Base Colors */
+  --background: #ffffff;
+  --foreground: #171717;
+  
+  /* Primary Colors */
+  --primary: #0041E8;
+  --primary-hover: #0035c0;
+  --primary-light: #2d5df7;
+  
+  /* Secondary Colors */
+  --secondary: #202020;
+  --secondary-light: #565656;
+  
+  /* Accent Colors */
+  --accent-gray: #666;
+  --accent-gray-light: #D1D4DC;
+  --accent-blue-light: #202EAE;
+  --accent-dark-blue: #000959;
+  
+  /* Background Colors */
+  --bg-light-gray: #F5F5F5;
+  --bg-gray: #F2F2F2;
+  
+  /* Font Families */
+  --font-poppins: 'Poppins', sans-serif;
+  --font-asap: 'Asap', sans-serif;
+  --font-inter: 'Inter', sans-serif;
+  --font-plus-jakarta: 'Plus Jakarta Sans', sans-serif;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.image-fill-cover {
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  color: transparent;
+}

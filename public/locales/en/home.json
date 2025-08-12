@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "backgroundImageAlt": "People in office analyzing finance graphs",
+    "welcome": "Welcome to {{companyName}}",
+    "headline1": "Shaping the Future",
+    "headline2": "Innovative Visions",
+    "button": "Learn More"
+  },
+  "partnersSection": {
+    "title": "Trusted Partners",
+    "logoAlt": {
+      "google": "Google Logo",
+      "microsoft": "Microsoft Logo",
+      "zoom": "Zoom Logo"
+    }
+  },
+  "projectsSection": {
+    "subtitle": "Case Studies",
+    "title": "Our Success Projects",
+    "description": "This is a descriptive text for the projects section. Replace with actual content.",
+    "card1": {
+      "alt": "Project One Background",
+      "title": "Project One Title",
+      "description": "A brief description of Project One, highlighting its features and results."
+    },
+    "card2": {
+      "backgroundAlt": "Project Two Background",
+      "mockupAlt": "Project Two Image",
+      "title": "Project Two Title",
+      "description": "A brief description of Project Two."
+    },
+    "card3": {
+      "backgroundAlt": "Project Three Background",
+      "mockupAlt": "Project Three Screen Mockup",
+      "title": "Project Three Title",
+      "description": "A brief description of Project Three."
+    },
+    "mainButton": "Browse All Projects"
+  },
+  "testimonialsSection": {
+    "subtitle": "Testimonials",
+    "title": "What Our Clients Say?",
+    "items": {
+      "1": {
+        "quote": "This is an example testimonial text. Replace with real customer feedback, highlighting the advantages of the product or service.",
+        "name": "Zhang San",
+        "location": "China"
+      },
+      "2": {
+        "quote": "Excellent service experience, professional technology, smooth communication, highly recommended!",
+        "name": "Li Si",
+        "location": "China"
+      },
+      "3": {
+        "quote": "Their solution perfectly addressed our pain points, significantly improving efficiency.",
+        "name": "Wang Wu",
+        "location": "China"
+      }
+    }
+  },
+  "aboutVariantSection": {
+    "imageAlt": "Team collaboration or office scene",
+    "subtitle": "About Us",
+    "title1": "Your Success",
+    "title2": "Our Mission",
+    "description": "This is supplementary information about us. You can further elaborate on the company's core competencies or service philosophy."
+  },
+  "aboutSection": {
+    "visuals": {
+      "shape1Alt": "Abstract Shape 1",
+      "shape2Alt": "Abstract Shape 2",
+      "customer1Alt": "Satisfied Customer 1",
+      "customer2Alt": "Satisfied Customer 2"
+    },
+    "statsCard": {
+      "label": "Satisfied Clients"
+    },
+    "subtitle": "About Us",
+    "title1": "Many Satisfied Clients",
+    "title2": "Service First",
+    "description": "This is an introductory text about the company. You can detail the company's history, mission, and values."
+  }
+} 

@@ -1,0 +1,24 @@
+{
+  "pageTitle": "Contact Us",
+  "pageDescription": "We'd love to hear from you! Whether you are inquiring about partnerships, seeking support, or have any questions, please feel free to contact us.",
+  "info": {
+    "title": "Contact Information",
+    "phoneAlt": "Phone",
+    "phoneNumber": "+86 138 1234 5678",
+    "emailAlt": "Email",
+    "emailAddress": "info@CAGANTECH.com",
+    "addressAlt": "Address",
+    "address": "Example Address, District, City, Country",
+    "hoursAlt": "Working Hours",
+    "hours": "Mon-Fri 08:00 - 18:00 / Sun 08:00 - 14:00"
+  },
+  "form": {
+    "title": "Leave Us a Message",
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "subjectLabel": "Subject",
+    "messageLabel": "Message",
+    "submitButton": "Send Message",
+    "submissionAlert": "Message sent! We will contact you soon."
+  }
+} 

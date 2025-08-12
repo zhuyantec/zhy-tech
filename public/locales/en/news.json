@@ -1,0 +1,18 @@
+{
+  "pageTitle": "News Center",
+  "metaDescription": "Stay updated with our latest news and announcements.",
+  "mainHeading": "News Center",
+  "description": "Follow our latest progress, announcements, and industry insights.",
+  "article1Title": "Major Announcement: New Platform Launch",
+  "article1Excerpt": "We are thrilled to announce the launch of our next-generation platform, designed to revolutionize...",
+  "article2Title": "Technology Update - Q3 Milestones",
+  "article2Excerpt": "A look back at the key technological advancements and milestones achieved in the third quarter...",
+  "article3Title": "{{companyName}} Signs Strategic Partnership",
+  "article3Excerpt": "We've partnered with Industry Leader Inc. to bring enhanced capabilities to our customers...",
+  "article1Content": "This is the full content for the first announcement about the new platform launch. It can be much longer and contain multiple paragraphs.",
+  "article2Content": "Here we detail the Q3 technology updates, discussing the progress made and future outlooks.",
+  "article3Content": "Full details about the strategic partnership with Industry Leader Inc., outlining the benefits and integration plans.",
+  "articleNotFound": "Article not found.",
+  "publishedOn": "Published on",
+  "noNewsAvailable": "No news available."
+} 

@@ -1,0 +1,33 @@
+{
+  "companyName": "{{companyName}}",
+  "learnMore": "了解更多",
+  "viewDetails": "查看详情",
+  "allProjects": "浏览所有项目",
+  "backToList": "返回列表",
+  "backToHome": "返回首页",
+  "sendMessage": "发送消息",
+  "readMore": "阅读更多",
+  "backToNewsList": "返回新闻列表",
+  "form": {
+    "name": "姓名",
+    "email": "邮箱",
+    "subject": "主题",
+    "message": "消息内容"
+  },
+  "language": {
+    "en": "English",
+    "zh": "简体中文"
+  },
+  "topHeader": {
+    "scheduleAlt": "工作时间",
+    "scheduleText": "周一至周五 08:00 - 18:00 / 周日 08:00 - 14:00",
+    "phoneAlt": "电话",
+    "phoneNumber": "+86 138 1234 5678",
+    "locationAlt": "地址",
+    "locationText": "示例地址, 某某区, 某某市",
+    "socialAlt1": "社交媒体 1",
+    "socialAlt2": "社交媒体 2",
+    "socialAlt3": "社交媒体 3",
+    "socialAlt4": "社交媒体 4"
+  }
+} 

@@ -1,0 +1,33 @@
+{
+  "companyName": "{{companyName}}",
+  "learnMore": "Learn More",
+  "viewDetails": "View Details",
+  "allProjects": "Browse All Projects",
+  "backToList": "Back to List",
+  "backToHome": "Back to Home",
+  "sendMessage": "Send Message",
+  "readMore": "Read More",
+  "backToNewsList": "Back to News List",
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message"
+  },
+  "language": {
+    "en": "English",
+    "zh": "简体中文"
+  },
+  "topHeader": {
+    "scheduleAlt": "Schedule",
+    "scheduleText": "Mon-Fri 08:00 - 18:00 / Sun 08:00 - 14:00",
+    "phoneAlt": "Call",
+    "phoneNumber": "+86 138 1234 5678",
+    "locationAlt": "Location",
+    "locationText": "Example Address, District, City",
+    "socialAlt1": "Social Media 1",
+    "socialAlt2": "Social Media 2",
+    "socialAlt3": "Social Media 3",
+    "socialAlt4": "Social Media 4"
+  }
+} 

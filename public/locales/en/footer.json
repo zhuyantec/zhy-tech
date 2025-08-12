@@ -1,0 +1,33 @@
+{
+  "description": "This is a company bio or footer description text. You can introduce the company's main business or vision.",
+  "social": {
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "instagram": "Instagram",
+    "youtube": "YouTube",
+    "linkedin": "LinkedIn"
+  },
+  "links": {
+    "quickLinksTitle": "Quick Links",
+    "home": "Home",
+    "partners": "Partners",
+    "projects": "Projects",
+    "about": "About Us",
+    "contact": "Contact Us"
+  },
+  "contact": {
+    "title": "Contact Info",
+    "phoneAlt": "Phone",
+    "phoneNumber": "+86 138 1234 5678",
+    "emailAlt": "Email",
+    "emailAddress": "info@CAGANTECH.com",
+    "addressAlt": "Address",
+    "address": "Example Address, District, City"
+  },
+  "cta": {
+    "title": "Partner with {{companyName}}",
+    "description": "Choose {{companyName}}, choose an innovative, reliable, and modern technology partner.",
+    "button": "Get Started"
+  },
+  "copyright": "© {{year}} {{companyName}}. All rights reserved."
+} 

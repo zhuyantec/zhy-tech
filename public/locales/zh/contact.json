@@ -1,0 +1,24 @@
+{
+  "pageTitle": "联系我们",
+  "pageDescription": "我们很乐意听到您的声音！无论您是咨询合作、寻求支持还是有任何疑问，请随时与我们联系。",
+  "info": {
+    "title": "联系方式",
+    "phoneAlt": "电话",
+    "phoneNumber": "+86 138 1234 5678",
+    "emailAlt": "邮箱",
+    "emailAddress": "info@CAGANTECH.com",
+    "addressAlt": "地址",
+    "address": "示例地址, 某某区, 某某市, 中国",
+    "hoursAlt": "工作时间",
+    "hours": "周一至周五 08:00 - 18:00 / 周日 08:00 - 14:00"
+  },
+  "form": {
+    "title": "给我们留言",
+    "nameLabel": "姓名",
+    "emailLabel": "邮箱",
+    "subjectLabel": "主题",
+    "messageLabel": "消息内容",
+    "submitButton": "发送消息",
+    "submissionAlert": "消息已发送！我们会尽快与您联系。"
+  }
+} 

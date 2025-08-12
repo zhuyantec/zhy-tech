@@ -1,0 +1,56 @@
+{
+  "pageTitle": "Our Projects",
+  "pageDescription": "Explore the innovative solutions and successful practices we have created for clients across various industries.",
+  "notFound": {
+    "title": "Project Not Found",
+    "message": "Sorry, we couldn't load the details for this project."
+  },
+  "tags": {
+    "web开发": "Web Development",
+    "数据分析": "Data Analysis",
+    "移动应用": "Mobile App",
+    "uiux设计": "UI/UX Design",
+    "云计算": "Cloud Computing",
+    "devops": "DevOps",
+    "人工智能": "Artificial Intelligence",
+    "机器学习": "Machine Learning"
+  },
+  "items": [
+    {
+      "id": 1,
+      "imageUrl": "/images/project-bg-1.webp",
+      "title": "Project One Title",
+      "description": "Detailed description of Project One, explaining the background, solution, tech stack, and final results. Highlight its innovation and value.",
+      "altText": "Project One Background",
+      "buttonText": "View Details",
+      "tags": ["Web Development", "Data Analysis"]
+    },
+    {
+      "id": 2,
+      "imageUrl": "/images/project-bg-1.webp",
+      "title": "Project Two Title",
+      "description": "Detailed description of Project Two, explaining the background, solution, tech stack, and final results. Highlight its innovation and value.",
+      "altText": "Project Two Image",
+      "buttonText": "View Details",
+      "tags": ["Mobile App", "UI/UX Design"]
+    },
+    {
+      "id": 3,
+      "imageUrl": "/images/project-bg-1.webp",
+      "title": "Project Three Title",
+      "description": "Detailed description of Project Three, explaining the background, solution, tech stack, and final results. Highlight its innovation and value.",
+      "altText": "Project Three Screen Mockup",
+      "buttonText": "View Details",
+      "tags": ["Cloud Computing", "DevOps"]
+    },
+    {
+      "id": 4,
+      "imageUrl": "/images/hero-background.webp",
+      "title": "Project Four Title",
+      "description": "Detailed description of Project Four, explaining the background, solution, tech stack, and final results. Highlight its innovation and value.",
+      "altText": "Project Four Background",
+      "buttonText": "View Details",
+      "tags": ["Artificial Intelligence", "Machine Learning"]
+    }
+  ]
+} 

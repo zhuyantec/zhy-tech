@@ -1,0 +1,32 @@
+# Global rules
+User-agent: *
+Allow: /
+Allow: /zh/
+Allow: /en/
+
+# Block private paths
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+Disallow: /*?*  # Block URLs with query parameters
+
+# Google specific rules
+User-agent: Googlebot
+Crawl-delay: 5
+Allow: /zh/
+Allow: /en/
+
+# Bing specific rules
+User-agent: Bingbot
+Crawl-delay: 10
+Allow: /zh/
+Allow: /en/
+
+# Baidu specific rules
+User-agent: Baiduspider
+Crawl-delay: 10
+Allow: /zh/
+Allow: /en/
+
+# Allow sitemap
+Sitemap: https://tech-company-website-template.edgeone.app/sitemap.xml 

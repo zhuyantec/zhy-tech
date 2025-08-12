@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1:76",
+    "name": "Google",
+    "logoSrc": "/logos/google.svg",
+    "alt": "谷歌标志",
+    "description": "全球领先的科技公司，提供搜索引擎、云计算、广告等服务。"
+  },
+  {
+    "id": "1:98",
+    "name": "Microsoft",
+    "logoSrc": "/logos/microsoft.svg",
+    "alt": "微软标志",
+    "description": "全球领先的软件公司，提供操作系统、办公软件、云计算等服务。"
+  },
+  {
+    "id": "1:106",
+    "name": "Zoom",
+    "logoSrc": "/logos/zoom.svg",
+    "alt": "Zoom 标志",
+    "description": "领先的视频会议解决方案提供商，连接全球用户。"
+  },
+  {
+    "id": "placeholder-4",
+    "name": "示例伙伴 A",
+    "logoSrc": "/logos/google.svg",
+    "alt": "示例伙伴 A 标志",
+    "description": "这是示例合作伙伴 A 的简短介绍，说明合作领域或关系。"
+  },
+   {
+    "id": "placeholder-5",
+    "name": "示例伙伴 B",
+    "logoSrc": "/logos/microsoft.svg",
+    "alt": "示例伙伴 B 标志",
+    "description": "这是示例合作伙伴 B 的简短介绍，说明合作领域或关系。"
+  }
+] 
