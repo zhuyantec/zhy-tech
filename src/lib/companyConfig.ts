@@ -1,1 +1,1 @@
-export const COMPANY_NAME = 'ZHUYANTECH'; 
+export const COMPANY_NAME = 'ZHY-TECH筑岩科技'; 
