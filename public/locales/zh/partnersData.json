@@ -4,14 +4,14 @@
     "name": "Haier",
     "logoSrc": "/logos/haier.svg",
     "alt": "海尔标志",
-    "description": "全球领先的科技公司，提供搜索引擎、云计算、广告等服务。"
+    "description": "全球领先的电器公司，提供搜索引擎、云计算、广告等服务。"
   },
   {
     "id": "1:98",
-    "name": "Microsoft",
-    "logoSrc": "/logos/microsoft.svg",
-    "alt": "微软标志",
-    "description": "全球领先的软件公司，提供操作系统、办公软件、云计算等服务。"
+    "name": "Vighi",
+    "logoSrc": "/logos/vighi.svg",
+    "alt": "维吉标志",
+    "description": "全球领先的入户装甲门公司，提供操作系统、办公软件、云计算等服务。"
   },
   {
     "id": "1:106",
