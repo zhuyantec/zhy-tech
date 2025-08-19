@@ -4,7 +4,7 @@ import Image from "next/legacy/image";
 
 // Define an interface for partner data if needed, or just use an array of objects
 const partners = [
-  { name: 'Google', logoSrc: '/logos/google.svg', id: '1:76', alt: 'Google Logo' },
+  { name: 'Haier', logoSrc: '/logos/Haier.svg', id: '1:76', alt: 'Haier Logo' },
   { name: 'Microsoft', logoSrc: '/logos/microsoft.svg', id: '1:98', alt: 'Microsoft Logo' },
   { name: 'Zoom', logoSrc: '/logos/zoom.svg', id: '1:106', alt: 'Zoom Logo' },
   // Add more partners if needed based on the Figma design (it shows 3)
