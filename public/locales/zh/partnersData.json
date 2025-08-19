@@ -4,21 +4,21 @@
     "name": "Haier",
     "logoSrc": "/logos/haier.svg",
     "alt": "海尔标志",
-    "description": "全球领先的电器公司，提供搜索引擎、云计算、广告等服务。"
+    "description": "全球领先的电器公司，提供厨房电器、大家电及生活小家电等产品。"
   },
   {
     "id": "1:98",
     "name": "Vighi",
     "logoSrc": "/logos/vighi.svg",
     "alt": "维吉标志",
-    "description": "全球领先的入户装甲门公司，提供操作系统、办公软件、云计算等服务。"
+    "description": "全球领先的被动安全方案提供商，提供入户装甲门、安全密室等产品。"
   },
   {
     "id": "1:106",
-    "name": "Zoom",
-    "logoSrc": "/logos/zoom.svg",
-    "alt": "Zoom 标志",
-    "description": "领先的视频会议解决方案提供商，连接全球用户。"
+    "name": "Nobilia",
+    "logoSrc": "/logos/nobilia.svg",
+    "alt": "柏丽标志",
+    "description": "全球领先的橱柜制造商，提供高端橱柜定制产品。"
   },
   {
     "id": "placeholder-4",
