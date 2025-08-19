@@ -6,7 +6,7 @@ import Image from "next/legacy/image";
 const partners = [
   { name: 'Haier', logoSrc: '/logos/haier.svg', id: '1:76', alt: 'Haier Logo' },
   { name: 'Vighi', logoSrc: '/logos/vighi.svg', id: '1:98', alt: 'Vighi Logo' },
-  { name: 'Zoom', logoSrc: '/logos/zoom.svg', id: '1:106', alt: 'Zoom Logo' },
+  { name: 'Nobilia', logoSrc: '/logos/nobilia.svg', id: '1:106', alt: 'Nobilia Logo' },
   // Add more partners if needed based on the Figma design (it shows 3)
 ];
 
