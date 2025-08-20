@@ -13,19 +13,19 @@ const TopHeader = () => {
           <div className="flex items-center space-x-1 justify-between">
             {/* Schedule Icon */}
             <Image src="/icons/schedule.svg" width={14} height={14} alt={t('topHeader.scheduleAlt', { defaultValue: 'Schedule'})} className="w-4 h-4" />
-            <span>{t('topHeader.scheduleText', { defaultValue: '周一至周五 08:00 - 18:00 / 周日 08:00 - 14:00'})}</span>
+            <span>{t('topHeader.scheduleText', { defaultValue: '周一至周五 09:00 - 18:00 / 周六 09:00 - 17:00'})}</span>
           </div>
           {/* Phone */}
           <div className="flex items-center space-x-1 justify-between">
             {/* Phone Icon */}
             <Image src="/icons/call.svg" width={14} height={14} alt={t('topHeader.phoneAlt', { defaultValue: 'Call'})} className="w-4 h-4" />
-            <span>{t('topHeader.phoneNumber', { defaultValue: '+86 138 1234 5678'})}</span>
+            <span>{t('topHeader.phoneNumber', { defaultValue: '+86 189 2289 8289'})}</span>
           </div>
           {/* Location */}
           <div className="flex items-center space-x-1 justify-between">
             {/* Location Icon */}
              <Image src="/icons/location_on.svg" width={14} height={14} alt={t('topHeader.locationAlt', { defaultValue: 'Location'})} className="w-4 h-4" />
-            <span>{t('topHeader.locationText', { defaultValue: '示例地址, 某某区, 某某市'})}</span>
+            <span>{t('topHeader.locationText', { defaultValue: '优城商务大厦, 龙华区, 深圳市'})}</span>
           </div>
         </div>
 
