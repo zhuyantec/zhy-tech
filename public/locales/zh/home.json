@@ -11,29 +11,29 @@
     "logoAlt": {
       "Haier": "海尔标志",
       "Vighi": "维吉标志",
-      "zoom": "Zoom 标志"
+      "Nobilia": "柏丽标志"
     }
   },
   "projectsSection": {
     "subtitle": "项目案例",
     "title": "我们的成功项目",
-    "description": "{{companyName}} 凭借丰富的全球资源和自身的创新技术，在中国为行业客户提供既独特又专业的解决方案。",
+    "description": "我们凭借丰富的全球资源和自身的创新技术，在中国为行业客户提供既独特又专业的解决方案。",
     "card1": {
       "alt": "项目一背景",
-      "title": "项目一标题",
-      "description": "项目一的简短描述，突出其特点和成果。"
+      "title": "华润深圳湾瑞府",
+      "description": "意大利进口Vighi超高入户装甲门。"
     },
     "card2": {
       "backgroundAlt": "项目二背景",
       "mockupAlt": "项目二图片",
-      "title": "项目二标题",
-      "description": "项目二的简短描述。"
+      "title": "龙岸花园",
+      "description": "Raumplus德禄收纳系统。"
     },
     "card3": {
       "backgroundAlt": "项目三背景",
       "mockupAlt": "项目三屏幕模型",
-      "title": "项目三标题",
-      "description": "项目三的简短描述。"
+      "title": "溪山美地园",
+      "description": "Kulitat不锈钢家政柜。"
     },
     "mainButton": "浏览所有项目"
   },
