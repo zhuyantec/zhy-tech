@@ -80,9 +80,18 @@ const Footer = () => {
         </div>
 
         {/* Copyright */}
-        <div className="text-center text-[var(--accent-gray)] text-sm font-[Plus Jakarta Sans] pt-8 border-t border-gray-300">
-           {t('copyright', { defaultValue: `© {{year}} ${COMPANY_NAME}. 版权所有`, year: new Date().getFullYear(), companyName: COMPANY_NAME })}
-        </div>
+      <div className="text-center text-[var(--accent-gray)] text-sm font-[Plus Jakarta Sans] pt-8 border-t border-gray-300">
+  {t('copyright', { defaultValue: `© {{year}} ${COMPANY_NAME}. 版权所有`, year: new Date().getFullYear(), companyName: COMPANY_NAME })}
+  <span className="mx-2">|</span>
+  <a 
+    href="https://beian.miit.gov.cn" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="hover:underline"
+  >
+    粤ICP备2025459824号-1
+  </a>
+</div>
       </div>
     </footer>
   );
