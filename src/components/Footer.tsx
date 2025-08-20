@@ -59,16 +59,16 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center space-x-2">
                  <Image src="/icons/phone.svg" alt={t('contact.phoneAlt', { defaultValue: '电话'})} width={16} height={16} className="mt-1"/>
-                <span className="text-[var(--accent-gray)] font-[Asap] ml-2">{t('contact.phoneNumber', { defaultValue: '+86 138 1234 5678'})}</span>
+                <span className="text-[var(--accent-gray)] font-[Asap] ml-2">{t('contact.phoneNumber', { defaultValue: '+86 189 2289 8289'})}</span>
               </li>
               <li className="flex items-center space-x-2">
                  <Image src="/icons/email.svg" alt={t('contact.emailAlt', { defaultValue: '邮箱'})} width={16} height={16} className="mt-1"/>
-                <span className="text-[var(--accent-gray)] font-[Asap] ml-2">{t('contact.emailAddress', { defaultValue: `info@${COMPANY_NAME.toLowerCase()}.com`})}</span>
+                <span className="text-[var(--accent-gray)] font-[Asap] ml-2">{t('contact.emailAddress', { defaultValue: `29828191@qq.com`})}</span>
               </li>
               <li className="flex items-center space-x-2">
                  <Image src="/icons/location.svg" alt={t('contact.addressAlt', { defaultValue: '地址'})} width={16} height={16} className="mt-1"/>
                 <span className="text-[var(--accent-gray)] font-[Asap] leading-relaxed ml-2">
-                  {t('contact.address', { defaultValue: '示例地址, 某某区, 某某市'})}
+                  {t('contact.address', { defaultValue: '优城商务大厦, 龙华区, 深圳市'})}
                 </span>
               </li>
             </ul>
