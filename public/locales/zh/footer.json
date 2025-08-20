@@ -29,5 +29,10 @@
     "description": "选择 {{companyName}}，选择创新、可靠、现代化的技术伙伴。",
     "button": "开始合作"
   },
+    "icp": {
+      "number": "粤ICP备2025459824号-1",
+      "link": "https://beian.miit.gov.cn/"
+    },
   "copyright": "© {{year}} {{companyName}}. 版权所有 "
+   "displayFormat": "{icp} | {copyright} "
 } 
