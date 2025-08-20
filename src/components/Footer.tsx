@@ -25,7 +25,7 @@ const Footer = () => {
               {COMPANY_NAME}
             </h3>
             <p className="text-[var(--accent-gray)] font-[Poppins] text-base leading-relaxed mb-4">
-              {t('description', { defaultValue: '这是一段公司简介或页脚描述文字。您可以介绍公司的主要业务或愿景。'})}
+              {t('description', { defaultValue: '创新、诚信、合作'})}
             </p>
             {/* Social Icons - Assuming these links don't need translation keys, but alt text does */}
             <div className="flex space-x-4 items-center">
