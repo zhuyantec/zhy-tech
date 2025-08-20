@@ -29,5 +29,5 @@
     "description": "选择 {{companyName}}，选择创新、可靠、现代化的技术伙伴。",
     "button": "开始合作"
   },
-  "copyright": "© {{year}} {{companyName}}. 版权所有 | "icpNumber": "<a href='https://beian.miit.gov.cn/' target='_blank' rel='noopener noreferrer'>粤ICP备2025459824号-1</a>""
+  "copyright": "© {{year}} {{companyName}}. 版权所有 | "<a href='https://beian.miit.gov.cn/' target='_blank' rel='noopener noreferrer'>粤ICP备2025459824号-1</a>""
 } 
