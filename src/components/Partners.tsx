@@ -7,6 +7,10 @@ const partners = [
   { name: 'Haier', logoSrc: '/logos/haier.svg', id: '1:76', alt: 'Haier Logo' },
   { name: 'Vighi', logoSrc: '/logos/vighi.svg', id: '1:98', alt: 'Vighi Logo' },
   { name: 'Nobilia', logoSrc: '/logos/nobilia.svg', id: '1:106', alt: 'Nobilia Logo' },
+  { name: 'Kulitat', logoSrc: '/logos/kulitat.svg', id: '2:76', alt: 'Kulitat Logo' },
+  { name: 'Fisher&Paykel', logoSrc: '/logos/fisher&paykel.svg', id: '2:98', alt: 'Fisher&Paykel Logo' },
+  { name: 'Casarte', logoSrc: '/logos/casarte.svg', id: '2:98', alt: 'Casarte Logo' },
+  { name: 'Raumplus', logoSrc: '/logos/raumplus.svg', id: '2:98', alt: 'Raumplus Logo' },
   // Add more partners if needed based on the Figma design (it shows 3)
 ];
 
