@@ -4,34 +4,34 @@
     "name": "Haier",
     "logoSrc": "/logos/haier.svg",
     "alt": "Haier Logo",
-    "description": "A leading global technology company providing search engine, cloud computing, advertising, and other services."
+    "description": "A globally leading appliance company that provides products such as kitchen appliances, household appliances, and small household appliances."
   },
   {
     "id": "1:98",
     "name": "Vighi",
     "logoSrc": "/logos/vighi.svg",
     "alt": "Vighi Logo",
-    "description": "A leading global software company providing operating systems, office software, cloud computing, and other services."
+    "description": "A globally leading provider of passive security solutions, offering products such as armored entry doors and secure escape rooms."
   },
   {
     "id": "1:106",
     "name": "Nobilia",
     "logoSrc": "/logos/nobilia.svg",
     "alt": "Nobilia Logo",
-    "description": "A leading video conferencing solutions provider connecting users worldwide."
+    "description": "A globally leading cabinet manufacturer, providing customized high-end cabinet products."
   },
   {
-    "id": "placeholder-4",
-    "name": "Example Partner A",
-    "logoSrc": "/logos/google.svg", 
-    "alt": "Example Partner A Logo",
-    "description": "This is a brief introduction for Example Partner A, explaining the area of cooperation or relationship."
+    "id": "2:76",
+    "name": "Kulitat",
+    "logoSrc": "/logos/kulitat.svg", 
+    "alt": "Kulitat Logo",
+    "description": "The world's leading stainless steel cabinet manufacturer, providing top-notch stainless steel cabinet products."
   },
    {
-    "id": "placeholder-5",
-    "name": "Example Partner B",
-    "logoSrc": "/logos/microsoft.svg",
-    "alt": "Example Partner B Logo",
-    "description": "This is a brief introduction for Example Partner B, explaining the area of cooperation or relationship."
+    "id": "2:98",
+    "name": "Fisher & Paykel",
+    "logoSrc": "/logos/fisher&paykel.svg",
+    "alt": "fisher&paykel Logo",
+    "description": "New Zealand national treasure level kitchen appliance brand, providing industry-leading kitchen appliances."
   }
 ] 
