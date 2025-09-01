@@ -21,17 +21,17 @@
     "description": "全球领先的橱柜制造商，提供高端橱柜定制产品。"
   },
   {
-    "id": "placeholder-4",
-    "name": "示例伙伴 A",
-    "logoSrc": "/logos/google.svg",
-    "alt": "示例伙伴 A 标志",
-    "description": "这是示例合作伙伴 A 的简短介绍，说明合作领域或关系。"
+    "id": "2:76",
+    "name": "Kulitat",
+    "logoSrc": "/logos/kulitat.svg",
+    "alt": "库灵图标志",
+    "description": "全球领先的不锈钢橱柜制造商，提供顶级不锈钢橱柜产品。"
   },
    {
-    "id": "placeholder-5",
-    "name": "示例伙伴 B",
-    "logoSrc": "/logos/microsoft.svg",
-    "alt": "示例伙伴 B 标志",
-    "description": "这是示例合作伙伴 B 的简短介绍，说明合作领域或关系。"
+    "id": "2:98",
+    "name": "Fisher & Paykel",
+    "logoSrc": "/logos/fisher&paykel.svg",
+    "alt": "斐雪派克标志",
+    "description": "新西兰国宝级厨房电器品牌，提供行业顶级厨房电器。"
   }
 ] 
