@@ -23,12 +23,12 @@
     },
     {
       "id": 2,
-      "imageUrl": "/images/project-bg-1.webp",
-      "title": "项目二标题",
-      "description": "项目二的详细描述，说明项目背景、解决方案、技术栈和最终成果。突出其创新性和价值。",
+      "imageUrl": "/images/project-longan.webp",
+      "title": "龙岸花园",
+      "description": "龙岸花园别墅、洋房和高层住宅全部采用了Raumplus德禄的橱柜、衣柜、玄关柜和卫浴柜产品。",
       "altText": "项目二图片",
       "buttonText": "查看详情",
-      "tags": ["移动应用", "UI/UX设计"]
+      "tags": ["Raumplus德禄收纳系统"]
     },
     {
       "id": 3,
