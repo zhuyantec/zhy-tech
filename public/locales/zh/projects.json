@@ -2,7 +2,7 @@
   "pageTitle": "我们的项目案例",
   "pageDescription": "探索我们为各行各业客户打造的创新解决方案和成功实践。",
   "tags": {
-    "web开发": "Web开发",
+    "Vighi入户装甲门": "Vighi入户装甲门",
     "数据分析": "数据分析",
     "移动应用": "移动应用",
     "uiux设计": "UI/UX设计",
@@ -14,12 +14,12 @@
   "items": [
     {
       "id": 1,
-      "imageUrl": "/images/project-bg-1.webp",
-      "title": "项目一标题",
-      "description": "项目一的详细描述，说明项目背景、解决方案、技术栈和最终成果。突出其创新性和价值。",
+      "imageUrl": "/images/project-ruifu.webp",
+      "title": "深圳湾瑞府",
+      "description": "意大利进口Vighi入户装甲门完美解决了设计师对入户门的超宽且通高的设计效果要求。",
       "altText": "项目一背景",
       "buttonText": "查看详情",
-      "tags": ["Web开发", "数据分析"]
+      "tags": ["Vighi入户装甲门"]
     },
     {
       "id": 2,
