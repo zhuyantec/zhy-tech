@@ -28,7 +28,7 @@ const Projects = () => {
           <div className="bg-[var(--bg-gray)] rounded-[33px] overflow-hidden relative min-h-[400px] md:min-h-[500px] flex flex-col justify-end p-6 md:p-8 text-white">
             <div 
               className="absolute inset-0 z-0 bg-cover bg-center" 
-              style={{ backgroundImage: "url('/images/project-bg-1.webp')" }}
+              style={{ backgroundImage: "url('/images/project-ruifu.webp')" }}
               role="img" 
               aria-label={t('projectsSection.card1.alt', { defaultValue: '项目一背景'})}
             ></div>
@@ -57,7 +57,7 @@ const Projects = () => {
                 <div className="bg-[var(--bg-gray)] rounded-[33px] overflow-hidden relative min-h-[400px] md:min-h-[234px] flex flex-col justify-end p-6 md:p-8 text-white group hover:shadow-xl transition-shadow duration-300">
                  <div 
                    className="absolute inset-0 z-0 bg-cover bg-center"
-                   style={{ backgroundImage: "url('/images/project-bg-1.webp')" }}
+                   style={{ backgroundImage: "url('/images/project-longan.webp')" }}
                    role="img"
                    aria-label={t('projectsSection.card2.backgroundAlt', { defaultValue: '项目二背景'})}
                  ></div>
