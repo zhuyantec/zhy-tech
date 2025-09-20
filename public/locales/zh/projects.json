@@ -32,12 +32,12 @@
     },
     {
       "id": 3,
-      "imageUrl": "/images/project-bg-1.webp",
-      "title": "项目三标题",
-      "description": "项目三的详细描述，说明项目背景、解决方案、技术栈和最终成果。突出其创新性和价值。",
+      "imageUrl": "/images/project-guanlan.webp",
+      "title": "观澜别墅",
+      "description": "Kulitat库灵图不锈钢橱柜采用食品级不锈钢材料制作，完美解决传统橱柜在耐用性和健康环保方面的缺陷。",
       "altText": "项目三屏幕模型",
       "buttonText": "查看详情",
-      "tags": ["云计算", "DevOps"]
+      "tags": ["Kulitat库灵图不锈钢橱柜"]
     },
     {
       "id": 4,
