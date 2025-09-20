@@ -79,7 +79,7 @@ const Projects = () => {
                <div className="bg-[var(--bg-gray)] rounded-[33px] overflow-hidden relative min-h-[400px] md:min-h-[234px] flex flex-col justify-end p-6 md:p-8 text-white group hover:shadow-xl transition-shadow duration-300">
                  <div 
                    className="absolute inset-0 z-0 bg-cover bg-center"
-                   style={{ backgroundImage: "url('/images/project-bg-1.webp')" }}
+                   style={{ backgroundImage: "url('/images/project-guanlan.webp')" }}
                    role="img"
                    aria-label={t('projectsSection.card3.backgroundAlt', { defaultValue: '项目三背景'})}
                  ></div>
