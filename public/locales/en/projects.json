@@ -36,12 +36,12 @@
     },
     {
       "id": 3,
-      "imageUrl": "/images/project-bg-1.webp",
-      "title": "Project Three Title",
-      "description": "Detailed description of Project Three, explaining the background, solution, tech stack, and final results. Highlight its innovation and value.",
+      "imageUrl": "/images/project-guanlan.webp",
+      "title": "GUANLAN VILLA",
+      "description": "Kulitat stainless steel cabinets are made of food grade stainless steel materials, perfectly solving the shortcomings of traditional cabinets in terms of durability, health, and environmental protection.",
       "altText": "Project Three Screen Mockup",
       "buttonText": "View Details",
-      "tags": ["Cloud Computing", "DevOps"]
+      "tags": ["Kulitat stainless steel cabinets"]
     },
     {
       "id": 4,
