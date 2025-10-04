@@ -83,6 +83,9 @@ const Footer = () => {
       <div className="text-center text-[var(--accent-gray)] text-sm font-[Plus Jakarta Sans] pt-8 border-t border-gray-300">
   {t('copyright', { defaultValue: `© {{year}} ${COMPANY_NAME}. 版权所有`, year: new Date().getFullYear(), companyName: COMPANY_NAME })}
   <span className="mx-2">|</span>
+  <Image src="/icons/gong'an.png" alt={t('contact.gong'anAlt', { defaultValue: '公安备案'})} width={16} height={16} className="mt-1"/>
+  <a href="https://beian.mps.gov.cn/#/query/webSearch?code=44030002008048" rel="noreferrer" target="_blank">粤公网安备44030002008048号</a>
+  <span className="mx-2">|</span>
   <a 
     href="https://beian.miit.gov.cn" 
     target="_blank" 
