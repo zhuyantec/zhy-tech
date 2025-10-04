@@ -29,5 +29,13 @@
     "description": "Choose {{companyName}}, choose an innovative, reliable, and modern technology partner.",
     "button": "Get Started"
   },
+   "psb":{
+    "number":"粤公网安备44030002008048号",
+    "link": "https://beian.mps.gov.cn/"
+   },
+  "icp": {
+    "number": "粤ICP备2025459824号-1",
+    "link": "https://beian.miit.gov.cn/"
+    },
   "copyright": "© {{year}} {{companyName}}. All rights reserved."
 } 
