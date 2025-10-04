@@ -38,4 +38,5 @@
     "link": "https://beian.miit.gov.cn/"
     },
   "copyright": "© {{year}} {{companyName}}. All rights reserved."
+   "displayFormat": "{psb} | {icp} | {copyright} "
 } 
