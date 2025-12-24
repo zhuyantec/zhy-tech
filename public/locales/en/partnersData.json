@@ -33,5 +33,12 @@
     "logoSrc": "/logos/fisher&paykel.svg",
     "alt": "fisher&paykel Logo",
     "description": "New Zealand national treasure level kitchen appliance brand, providing industry-leading kitchen appliances."
+  },
+   {
+    "id": "2:106",
+    "name": "Richart",
+    "logoSrc": "/logos/RICHART.svg",
+    "alt": "RICHART Logo",
+    "description": "Light luxury wooden customization and high-end hotel furniture manufacturer."
   }
-] 
+]
