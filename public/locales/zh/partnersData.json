@@ -11,14 +11,14 @@
     "name": "Vighi",
     "logoSrc": "/logos/vighi.svg",
     "alt": "维吉标志",
-    "description": "全球领先的被动安全方案提供商，提供入户装甲门、安全密室等产品。"
+    "description": "意大利被动安全方案提供商，提供入户装甲门、安全密室等产品。"
   },
   {
     "id": "1:106",
     "name": "Nobilia",
     "logoSrc": "/logos/nobilia.svg",
     "alt": "柏丽标志",
-    "description": "全球领先的橱柜制造商，提供高端橱柜定制产品。"
+    "description": "德国第一品牌橱柜制造商，提供高端橱柜定制产品。"
   },
   {
     "id": "2:76",
@@ -47,5 +47,12 @@
     "logoSrc": "/logos/ROSERY.svg",
     "alt": "玫瑰岛标志",
     "description": "高端全卫产品制造商，提供淋浴屏、浴室柜、全景门、洁具及卫浴五金产品。"
+  },
+    {
+    "id": "3:98",
+    "name": "Raumplus",
+    "logoSrc": "/logos/raumplus.svg",
+    "alt": "德禄标志",
+    "description": "德国品牌大家居产品制造商，提供衣柜、橱柜、浴室柜等系统柜产品。"
   }
 ] 
