@@ -40,5 +40,12 @@
     "logoSrc": "/logos/RICHART.svg",
     "alt": "日昌标志",
     "description": "轻奢木作定制和高端酒店家具制造商。"
+  },
+    {
+    "id": "3:76",
+    "name": "Rosery",
+    "logoSrc": "/logos/ROSERY.svg",
+    "alt": "玫瑰岛标志",
+    "description": "高端全卫产品制造商，提供淋浴屏、浴室柜、全景门、洁具及卫浴五金产品。"
   }
 ] 
